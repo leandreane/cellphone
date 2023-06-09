@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Итоговый счёт при пополнении на 1350 рублей: ");
         System.out.println((deposit / 100) + score + deposit + " рублей ");
-        System.out.println();
+        
         System.out.println("Бонусных рублей при пополнении на 1350 рублей: ");
         System.out.println(deposit / 100 + " рублей ");
 
